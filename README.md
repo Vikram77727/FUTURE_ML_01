@@ -52,7 +52,7 @@ This project was developed during my **Machine Learning Internship** as a practi
 ## 🔗 Resources  
 - 📂 [Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)  
 - 💻 [Colab Notebook](ML_Task_1.pbix) *(my implementation)*  
-- 📊 [Power BI File](https://github.com/your-username/your-repo/blob/main/my_forecast_dashboard.pbix)  
+- 📊 [Power BI File](https://github.com/Vikram77727/FUTURE_ML_01/blob/4544eb02030f65bbf2fa022f05940d08d0aa0f76/ML_Task_1.pbix)
 
 ---
 
