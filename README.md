@@ -1,37 +1,61 @@
-📊 Sales Forecasting Dashboard  
-This initiative was developed as a key part of my Machine Learning Internship with Future Interns. The core goal was to predict future sales trends and construct an interactive dashboard to deliver crucial business insights.  
+# 📊 Superstore Sales Forecasting Dashboard  
 
-🚀 Project Overview  
-A robust time series forecasting model was created using Facebook Prophet.  
-The findings and key performance indicators were visualized using Power BI.  
-I conducted an analysis of historical trends to accurately predict future sales performance.  
-The model's accuracy was assessed using standard metrics: MAE, RMSE, and MAPE.  
-📂 Features  
-✅ Forecasted daily sales with clear confidence intervals  
+This project was developed during my **Machine Learning Internship** as a practical application of **time series forecasting**. The objective was to analyze past sales data, build a forecasting model, and design an **interactive dashboard** to support data-driven business decisions.  
 
-✅ Visual comparison of actual sales versus predicted sales trends
+---
 
-✅ Dedicated KPI cards to display actual and forecasted sales figures  
+## 🚀 Project Highlights  
+- Built a **time series forecasting pipeline** using **Facebook Prophet** to estimate future sales.  
+- Created an **interactive Power BI dashboard** to visualize both historical data and forecast results.  
+- Engineered custom time-based features (month, quarter, holiday spikes) to improve model accuracy.  
+- Evaluated model performance using **MAE, RMSE, and MAPE**.  
 
-✅ Detailed error analysis through residual plotting  
+---
 
-✅ Insights broken down by product category  
+## 📂 Key Features  
+✅ Daily sales forecasts with confidence intervals  
 
-✅ User-friendly, interactive dashboard filters
+✅ Comparison of actual sales vs. predicted trends  
 
-🛠️ Tech Stack  
-Python (Pandas, Prophet, NumPy, Matplotlib)  
-Power BI (Data Visualization & KPI Dashboards)  
-📈 Model Performance  
-MAE: 1.05  
-RMSE: 1.35  
-MAPE: 19.48%  
-📸 Dashboard Preview
-Superstore Sales Analysis and Forecast Dashboard
+✅ KPI cards for key forecast metrics  
 
-🔗 Links  
-📂 Dataset  
-💻 Code Notebook
-📊 Dashboard File  
-🏆 Internship Task  
-This project fulfills Task 1 of my internship with Future Interns, with a strong focus on Machine Learning and Time Series Forecasting.
+✅ Exported clean CSV files (ready for BI tools):  
+- `historical_daily_sales.csv`  
+- `historical_and_forecast_sales.csv`  
+- `future_forecasted_sales.csv`  
+- `forecast_metrics.csv`  
+
+✅ Interactive filters for deeper insights by time and category  
+
+---
+
+## 🛠️ Tech Stack  
+- **Python** → Pandas, NumPy, Prophet, scikit-learn  
+- **Google Colab** → Model training & CSV export  
+- **Power BI Desktop** → Dashboard creation  
+
+---
+
+## 📈 Model Performance (sample run)  
+- **MAE:** ~1.1  
+- **RMSE:** ~1.3  
+- **MAPE:** ~19%  
+
+---
+
+## 📸 Dashboard Snapshot  
+
+![Superstore Sales Forecasting Dashboard](<img width="1367" height="757" alt="Screenshot 2025-09-04 181534" src="https://github.com/user-attachments/assets/8181e737-1c24-4927-b83f-4ed513068838" />
+)  
+
+---
+
+## 🔗 Resources  
+- 📂 [Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)  
+- 💻 [Colab Notebook](https://colab.research.google.com/) *(my implementation)*  
+- 📊 [Power BI File](https://github.com/your-username/your-repo/blob/main/my_forecast_dashboard.pbix)  
+
+---
+
+## 🏆 Internship Contribution  
+This fulfills **Task 1** of my internship project, focused on **Machine Learning for business forecasting** and creating **actionable dashboards** for decision-making.  
