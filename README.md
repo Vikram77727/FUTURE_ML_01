@@ -44,9 +44,8 @@ This project was developed during my **Machine Learning Internship** as a practi
 ---
 
 ## 📸 Dashboard Snapshot  
+<img width="1367" height="757" alt="Screenshot 2025-09-04 181534" src="https://github.com/user-attachments/assets/2a7b3408-ed61-467a-8eac-f88410fb59b6" />
 
-![Superstore Sales Forecasting Dashboard](<img width="1367" height="757" alt="Screenshot 2025-09-04 181534" src="https://github.com/user-attachments/assets/8181e737-1c24-4927-b83f-4ed513068838" />
-)  
 
 ---
 
